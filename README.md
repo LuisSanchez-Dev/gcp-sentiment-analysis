@@ -49,6 +49,8 @@ Now you can test the API from http://localhost:3000/api .
 $ docker compose up -d
 $ docker compose exec sentiment-analysis npm run test
 $ docker compose exec sentiment-analysis npm run test:e2e
-```## License
+```
+
+## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
